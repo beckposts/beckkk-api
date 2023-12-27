@@ -1,0 +1,268 @@
+{
+    "expenses": [
+        {
+            "name": "Litti Chokha",
+            "currency": 80.0,
+            "time": "2023-07-24T17:15:59.734",
+            "type": "expense",
+            "accountId": 0,
+            "categoryId": 0,
+            "superId": 0,
+            "description": "at tower chowk",
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "HomeCash",
+            "currency": 500.0,
+            "time": "2023-07-23T12:00:17.153",
+            "type": "income",
+            "accountId": 0,
+            "categoryId": 1,
+            "superId": 1,
+            "description": "from home",
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Dote Timer",
+            "currency": 1100.0,
+            "time": "2023-07-25T14:25:14.902",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 2,
+            "superId": 2,
+            "description": "Purchased Dote Time App",
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "IDK",
+            "currency": 20.0,
+            "time": "2023-07-26T18:40:57.433",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 3,
+            "superId": 3,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Phone Recharge ",
+            "currency": 549.0,
+            "time": "2023-07-26T23:12:36.101",
+            "type": "expense",
+            "accountId": -1,
+            "categoryId": 4,
+            "superId": 4,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Phone Recharge ",
+            "currency": 549.0,
+            "time": "2023-07-26T23:02:16.550",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 4,
+            "superId": 5,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Unknown",
+            "currency": 70.0,
+            "time": "2023-07-27T15:47:09.243",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 3,
+            "superId": 6,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Litti",
+            "currency": 80.0,
+            "time": "2023-07-27T17:16:01.430",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 0,
+            "superId": 7,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Basic Things",
+            "currency": 79.0,
+            "time": "2023-07-27T17:27:30.013",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 6,
+            "superId": 8,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Disposal ",
+            "currency": 70.0,
+            "time": "2023-07-28T14:09:58.393",
+            "type": "expense",
+            "accountId": -1,
+            "categoryId": 3,
+            "superId": 9,
+            "description": "Party at Silas's House",
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "Unknown ",
+            "currency": 10.0,
+            "time": "2023-07-28T14:22:35.345",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 3,
+            "superId": 10,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "IDK",
+            "currency": 12.0,
+            "time": "2023-07-28T19:17:45.490",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 3,
+            "superId": 11,
+            "description": "",
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "COC Gems",
+            "currency": 269.0,
+            "time": "2023-07-29T09:09:51.486",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 2,
+            "superId": 12,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        },
+        {
+            "name": "IDK",
+            "currency": 200.0,
+            "time": "2023-07-29T16:28:48.442",
+            "type": "expense",
+            "accountId": 2,
+            "categoryId": 3,
+            "superId": 13,
+            "description": null,
+            "fromAccountId": null,
+            "toAccountId": null,
+            "transferAmount": 0.0
+        }
+    ],
+    "accounts": [
+        {
+            "name": "Beckkk",
+            "bankName": "Cash",
+            "number": "",
+            "cardType": "cash",
+            "superId": 0,
+            "amount": 0.0,
+            "color": 4294198070
+        },
+        {
+            "name": "Beckkk",
+            "bankName": "UBI",
+            "number": "",
+            "cardType": "bank",
+            "superId": 2,
+            "amount": 7205.27,
+            "color": 4284955319
+        }
+    ],
+    "categories": [
+        {
+            "name": "Fast Food",
+            "description": "",
+            "icon": 985016,
+            "superId": 0,
+            "budget": 300.0,
+            "color": 4283215696,
+            "isBudget": true,
+            "isDefault": false
+        },
+        {
+            "name": "Cash",
+            "description": "From Home",
+            "icon": 984284,
+            "superId": 1,
+            "budget": 0.0,
+            "color": 4294951175,
+            "isBudget": false,
+            "isDefault": false
+        },
+        {
+            "name": "Online Purchased",
+            "description": "",
+            "icon": 983725,
+            "superId": 2,
+            "budget": 0.0,
+            "color": 4294198070,
+            "isBudget": false,
+            "isDefault": false
+        },
+        {
+            "name": "Miscellaneous ",
+            "description": "",
+            "icon": 983090,
+            "superId": 3,
+            "budget": 0.0,
+            "color": 4282339765,
+            "isBudget": false,
+            "isDefault": false
+        },
+        {
+            "name": "Basic Needs",
+            "description": "",
+            "icon": 985092,
+            "superId": 4,
+            "budget": 0.0,
+            "color": 4283215696,
+            "isBudget": false,
+            "isDefault": false
+        },
+        {
+            "name": "For Home",
+            "description": "",
+            "icon": 983312,
+            "superId": 6,
+            "budget": 0.0,
+            "color": 4284513675,
+            "isBudget": false,
+            "isDefault": false
+        }
+    ]
+}

@@ -31,8 +31,11 @@ app.delete('/api/data/:id', (req, res) =>{
     const id = Number(req.params.id);
     // Find ID in db
     const findID = db.find((findID) => findID.id === id);
-    db.splice(findID, 1)
-    return res.json({status: "Successfully Deleted"});
+    //console.log(findID);
+    const objIndex = db.indexOf(findID);
+    //console.log(objIndex);
+    db.splice(objIndex,1)
+    return res.json({status: "Successfully deleted"});
 })
 
 app.listen(PORT, () => console.log('Server started at PORT 8000'));
